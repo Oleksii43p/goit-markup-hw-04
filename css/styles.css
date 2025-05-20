@@ -168,8 +168,8 @@ img {
     padding: 16px 32px;
     border-radius: 4px;
     border: none;
-    margin-top: 0;
-    margin-bottom: 68px;
+    margin: 0 auto;
+
 }
 
 .title {
@@ -252,15 +252,6 @@ img {
     margin-bottom: 8px;
 }
 
-/*
-.op-card .title-third {
-    margin: 32px auto 0 16px;
-}
-
-.op-card .paragraph {
-    margin: 8px auto 32px 16px;
-}
-*/
 .btn-hero:hover,
 .btn-hero:focus,
 .btn-hero:active {
