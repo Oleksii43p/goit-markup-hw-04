@@ -59,6 +59,7 @@ img {
     display: flex;
     gap: 40px;
     align-items: center;
+    padding-left: 0;
 }
 
 .contacts .contacts-list {
@@ -174,8 +175,8 @@ img {
 
 .title {
     max-width: 496px;
-    margin-left: 331px;
-    margin-right: 331px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 68px;
     margin-bottom: 48px;
 }
@@ -194,9 +195,12 @@ img {
     overflow: hidden;
 }
 
-.adv-list {
+.adv-item {
     display: flex;
     gap: 24px;
+}
+
+.adv-list {
     flex-basis: calc((100% - 72px) / 4);
 }
 
