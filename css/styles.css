@@ -122,21 +122,22 @@ img {
     font-style: normal;
 }
 
-.contact-link {
+.contacts-link {
     font-style: normal;
     color: #434455;
 }
 
 .nav-link {
+    display: block;
     padding: 24px 0;
 }
 
 .nav-link:hover,
 .nav-link:focus,
 .nav-link:active,
-.contact-link:hover,
-.contact-link:focus,
-.contact-link:active {
+.contacts-link:hover,
+.contacts-link:focus,
+.contacts-link:active {
     color: #404bbf;
 }
 
@@ -176,7 +177,6 @@ img {
     max-width: 496px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 68px;
     margin-bottom: 48px;
 }
 
@@ -348,7 +348,7 @@ img {
 
 .logo-footer {
     display: inline-block;
-    margin-bottom: 16px;
+    margin-bottom: 0;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
