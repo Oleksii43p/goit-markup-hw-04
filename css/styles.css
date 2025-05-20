@@ -317,18 +317,9 @@ img {
     background-color: #2e2f42;
 }
 
-.footer .logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    font-size: 18px;
-    text-decoration: none;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-}
 
-.footer .logo-accent {
+
+.logo-footer .logo-accent {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
@@ -359,4 +350,12 @@ img {
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
