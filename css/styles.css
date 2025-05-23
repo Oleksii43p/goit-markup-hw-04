@@ -136,6 +136,10 @@ img {
 /* Hero */
 
 .hero-main {
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7)),
+    url(../images/people-office.jpg);
+  background-position: center;
+  background-size: cover;
   background-color: #2e2f42;
   text-align: center;
 }
