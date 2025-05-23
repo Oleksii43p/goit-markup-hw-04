@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -71,7 +71,7 @@ img {
 }
 
 .navigation .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -83,7 +83,7 @@ img {
 }
 
 .navigation .logo-accent {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #2e2f42;
@@ -155,7 +155,7 @@ img {
 .btn-hero {
   display: block;
   min-width: 169px;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -301,7 +301,7 @@ img {
 .logo-footer {
   display: inline-block;
   margin-bottom: 16px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -312,7 +312,7 @@ img {
 }
 
 .logo-footer .logo-accent {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #f4f4fd;
