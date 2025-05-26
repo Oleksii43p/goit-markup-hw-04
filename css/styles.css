@@ -328,6 +328,9 @@ img {
 .social-icons {
   display: flex;
   gap: 24px;
+}
+
+.social-icons {
   justify-content: center;
   padding-left: 0;
 }
@@ -473,6 +476,8 @@ img {
   margin-bottom: 16px;
   align-content: start;
   font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .social-icons {
