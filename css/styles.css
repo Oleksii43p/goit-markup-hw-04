@@ -480,8 +480,10 @@ img {
   letter-spacing: 0.02em;
 }
 
-.so-footer {
+.social-icons-footer {
+  display: flex;
   gap: 24px;
+  padding-left: 0;
 }
 
 .text-footer {
